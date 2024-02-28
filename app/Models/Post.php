@@ -27,7 +27,8 @@ class Post extends Model
 
     public function shortBody(): string
     {
-        return Str::words(strip_tags($this->body), 30);
+        $decodedBody = html_entity_decode($this->body);
+        return Str::words(strip_tags($decodedBody), 30);
     }
 
     protected static function boot(): void
