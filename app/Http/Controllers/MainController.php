@@ -13,4 +13,9 @@ class MainController extends Controller
     {
         return view('index');
     }
+
+    public function legals(): View|Application|Factory
+    {
+        return view('legals');
+    }
 }
