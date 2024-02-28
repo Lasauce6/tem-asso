@@ -2834,6 +2834,10 @@ td:last-child {
 	line-height: 1.1574;
 }
 
+.blog-card__text {
+    word-break: break-word;
+}
+
 .blog-card__title a {
 	color: var(--color-text-dark);
 }
