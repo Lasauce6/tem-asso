@@ -116,7 +116,7 @@
 
             <div class="row s-clients__content-block width-sixteen-col">
                 <div class="column xl-12">
-                    <div class="grid grid-cols-7 gap-3 place-items-center">
+                    <div class="grid grid-cols-7 gap-3 place-items-center justify-center">
                         <div class="max-w-60">
                             <a href="https://www.maine-et-loire.fr/" target="_blank">
                                 <img src="{{ asset('asset/images/partenaires/anjou.png') }}" alt="Logo Anjou">
@@ -163,13 +163,13 @@
                             </a>
                         </div>
                         <div class="max-w-60">
-                            <a href="https://raphaelbaticle.fr" target="_blank">
-                                <img src="{{ asset('asset/images/partenaires/raphael.png') }}" alt="Logo Raphaël BATICLE">
+                            <a href="https://www.the-quietly-prod.com/accueil" target="_blank">
+                                <img src="{{ asset('asset/images/partenaires/tqp_black.png') }}" alt="Logo The Quietly Prod">
                             </a>
                         </div>
                         <div class="max-w-60">
-                            <a href="https://saintpierre91.org/" target="_blank">
-                                <img src="{{ asset('asset/images/partenaires/saint_pierre.png') }}" alt="Logo Saint Pierre">
+                            <a href="https://raphaelbaticle.fr" target="_blank">
+                                <img src="{{ asset('asset/images/partenaires/raphael.png') }}" alt="Logo Raphaël BATICLE">
                             </a>
                         </div>
                         <div class="max-w-60">
@@ -184,10 +184,7 @@
                         </div>
                         <div class="max-w-120">
                             <a href="https://www.chateau-angers.fr/" target="_blank">
-                                <div class="grid grid-cols-2 gap-0 place-items-center">
-                                    <img src="{{ asset('asset/images/partenaires/republique_francaise.png') }}" alt="Logo Republique Française">
-                                    <img src="{{ asset('asset/images/partenaires/monuments_nationaux.png') }}" alt="Logo Centre des Monuments Nationaux">
-                                </div>
+                                <img src="{{ asset('asset/images/partenaires/monuments_nationaux.png') }}" alt="Logo Centre des Monuments Nationaux">
                             </a>
                         </div>
                         <div class="max-w-60">
