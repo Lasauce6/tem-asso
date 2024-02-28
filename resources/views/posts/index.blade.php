@@ -47,3 +47,20 @@
     </section> <!-- s-content-->
 
 @endsection
+
+@section('scripts')
+    <script>
+        // Récupérez toutes les cartes de post
+        const postCards = document.querySelectorAll('.post-card');
+
+        // Parcourez chaque carte et ajoutez un écouteur d'événements de clic
+        postCards.forEach(card => {
+            card.addEventListener('click', () => {
+                // Récupérez le lien de la carte
+                const link = card.querySelector('a').href;
+                // Redirigez l'utilisateur vers le lien du post
+                window.location.href = link;
+            });
+        });
+    </script>
+@endsection
