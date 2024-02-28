@@ -13,7 +13,7 @@
                         {{ $post->title }}
                         <span class="page-title__small-type text-pretitle">Catégorie
                             @foreach($post->categories as $category)
-                                <a href="{{ route('posts.index', ['category' => $category->slug]) }}">{{ $category->title }}</a>
+                                <a href="{{ route('posts.category', $category->slug) }}">{{ $category->title }}</a>
                             @endforeach
                         </span>
 
@@ -23,13 +23,13 @@
         </section>
 
         <div class="container mx-auto my-20">
-            <div class="mx-8">
-                <img class="max-h-[700px] w-full rounded-xl object-cover shadow-xl"
-                     src="{{ asset('storage/' . $post->thumbnail) }}" alt="{{ $post->title }}">
-            </div>
+            <div class="row flex items-center">
+                <div class="column xl-5 place-self-start">
+                    <img class="w-full rounded-xl object-cover shadow-xl"
+                         src="{{ asset('storage/' . $post->thumbnail) }}" alt="{{ $post->title }}">
+                </div>
 
-            <div class="row">
-                <div class="column xl-12">
+                <div class="column xl-7 ">
                     <article class="s-content__entry entry format-standard">
                         <div class="s-content__media">
 

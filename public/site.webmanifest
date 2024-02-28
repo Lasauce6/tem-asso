@@ -1,6 +1,6 @@
 {
-    "name": "",
-    "short_name": "",
+    "name": "Tous Ensemble en Musique",
+    "short_name": "TEM Asso",
     "icons": [
         {
             "src": "android-chrome-192x192.png",
@@ -13,7 +13,7 @@
             "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#860E36",
+    "background_color": "#FFF5EB",
     "display": "standalone"
 }
