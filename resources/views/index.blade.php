@@ -184,7 +184,7 @@
                         </div>
                         <div class="max-w-120">
                             <a href="https://www.chateau-angers.fr/" target="_blank">
-                                <img src="{{ asset('asset/images/partenaires/monuments_nationaux.png') }}" alt="Logo Centre des Monuments Nationaux">
+                                <img src="{{ asset('asset/images/partenaires/monuments_nationaux_cologotage.png') }}" alt="Logo Centre des Monuments Nationaux et République Française">
                             </a>
                         </div>
                         <div class="max-w-60">
