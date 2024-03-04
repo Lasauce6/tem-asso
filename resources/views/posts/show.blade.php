@@ -22,7 +22,7 @@
             </div>
         </section>
 
-        <div class="container mx-auto my-20 flex flex-col sm:flex-row">
+        <div class="container mx-auto my-20 flex flex-col md:flex-row">
             <div class="row flex items-center">
                 <div class="column xl-5 place-self-start">
                     <img class="w-full rounded-xl object-cover shadow-xl"
