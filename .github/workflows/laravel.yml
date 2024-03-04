@@ -23,7 +23,7 @@ jobs:
       - name: Generate key
         run: php artisan key:generate
       - name: Compile tailwindcss
-        run: npm build dev
+        run: npm run build
       - name: Directory Permissions
         run: chmod -R 777 storage bootstrap/cache
       - name: Create Database
