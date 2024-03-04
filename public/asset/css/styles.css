@@ -2825,7 +2825,7 @@ td:last-child {
 	font-size: var(--text-sm);
 }
 
-.blog-card__cat-links a {
+.blog-card__cat-links a:hover {
 	color: var(--color-1);
 }
 
@@ -2836,6 +2836,7 @@ td:last-child {
 
 .blog-card__text {
     word-break: break-word;
+    color: var(--color-text-dark);
 }
 
 .blog-card__title a {

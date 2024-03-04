@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', 'TEM Association')
+@section('title', 'Tous Ensemble en Musique - Association (TEM)')
 
 @section('content')
     <!-- # site main content
@@ -66,7 +66,7 @@
                         <p class="attention-getter">
                             Fondée par d'anciens élèves de l'institut St Pierre,
                             l'association acceuille des musiciens de tous niveaux et de tous horizons.
-                            Composée d'une trentaine de musiciens et de bénévoles ainsi que plus de 200 adhérents, l'association TEM a pour objectif de promouvoir la musique pour tous.
+                            Composée d'une trentaine de musiciens et de bénévoles ainsi que plus de 200 adhérents, l'association Tous Ensemble en Musique a pour objectif de promouvoir la musique pour tous.
                             L'association intègre le projet "Tous En Musique", un projet d'inclusion scolaire qui utilise la musique comme outil de cohésion sociale.
                         </p>
                         <br>
