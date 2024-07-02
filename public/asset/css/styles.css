@@ -2825,13 +2825,18 @@ td:last-child {
 	font-size: var(--text-sm);
 }
 
-.blog-card__cat-links a {
+.blog-card__cat-links a:hover {
 	color: var(--color-1);
 }
 
 .blog-card__title {
 	margin     : 0;
 	line-height: 1.1574;
+}
+
+.blog-card__text {
+    word-break: break-word;
+    color: var(--color-text-dark);
 }
 
 .blog-card__title a {
