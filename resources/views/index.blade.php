@@ -79,7 +79,7 @@
 
                     </div> <!-- end s-about__content-main -->
 
-                    <div class="s-about__content-btn grid-section-split__bottom">
+                    <div class="s-about__content-btn grid-section-split__bottom mb-4">
 {{--                        <a href="about.html" class="btn btn--stroke u-fullwidth">More About Me</a>--}}
 
                         <ul class="s-about__social social-list">
@@ -92,10 +92,23 @@
                         </ul> <!-- end s-footer__social -->
                     </div> <!-- end s-about__content-btn -->
 
+
                 </div> <!-- content-inner -->
+
+            </div>
+            <div class="row width-sixteen-col">
+                <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 mt-4">
+                    <div class="flex-1 mx-5">
+                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/Interviews-TEM15.mov') }}" controls></video>
+                    </div>
+                    <div class="flex-1 mx-5">
+                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/TEM15-de-Brunoy-a-Angers.mp4') }}" controls></video>
+                    </div>
+                </div>
             </div>
 
-        </section> <!-- end s-about -->
+
+    </section> <!-- end s-about -->
 
         <!-- clients
         ----------------------------------------------- -->
