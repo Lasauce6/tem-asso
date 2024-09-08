@@ -99,10 +99,10 @@
             <div class="row width-sixteen-col">
                 <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 mt-4">
                     <div class="flex-1 mx-5">
-                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/Interviews-TEM15.mov') }}" controls></video>
+                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/interviews_TEM15.mov') }}" controls></video>
                     </div>
                     <div class="flex-1 mx-5">
-                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/TEM15-de-Brunoy-a-Angers.mp4') }}" controls></video>
+                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/TEM15_Brunoy_Angers.mp4') }}" controls></video>
                     </div>
                 </div>
             </div>
