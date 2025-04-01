@@ -18,4 +18,14 @@ class MainController extends Controller
     {
         return view('legals');
     }
+
+    public function actions(): View|Application|Factory
+    {
+        return view('actions-tem');
+    }
+
+    public function contact(): View|Application|Factory
+    {
+        return view('contact');
+    }
 }
