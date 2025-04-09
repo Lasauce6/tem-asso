@@ -22,3 +22,4 @@ Route::get('/posts/post/{post:slug}', [PostController::class, 'show'])->name('po
 Route::get('/legals', [MainController::class, 'legals'])->name('legals');
 Route::get('/actions', [MainController::class, 'actions'])->name('actions');
 Route::get('/contact', [MainController::class, 'contact'])->name('contact');
+Route::get('/nous-soutenir', [MainController::class, 'nousSoutenir'])->name('nous-soutenir');

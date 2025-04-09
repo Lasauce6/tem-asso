@@ -28,4 +28,9 @@ class MainController extends Controller
     {
         return view('contact');
     }
+
+    public function nousSoutenir(): View|Application|Factory
+    {
+        return view('nous-soutenir');
+    }
 }

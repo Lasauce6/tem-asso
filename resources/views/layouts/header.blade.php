@@ -15,10 +15,15 @@
         <nav class="s-header__nav">
 
             <ul class="s-header__menu-links">
-                <li class="{{ request()->is('posts') ? "current" : '' }}"><a
-                        href={{ route('posts.index') }}>Actualités</a></li>
-                <li class="{{ request()->is('actions') ? "current" : '' }}"><a href={{ route('actions') }}>Nos
-                        actions</a></li>
+                <li class="{{ request()->is('posts') ? "current" : '' }}">
+                    <a href={{ route('posts.index') }}>Actualités</a>
+                </li>
+                <li class="{{ request()->is('actions') ? "current" : '' }}">
+                    <a href={{ route('actions') }}>Nos actions</a>
+                </li>
+                <li class="{{ request()->is('nous-soutenir') ? "current" : '' }}">
+                    <a href="{{ route('nous-soutenir') }}">Nous soutenir</a>
+                </li>
             </ul> <!-- s-header__menu-links -->
 
             <div class="s-header__contact">
