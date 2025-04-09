@@ -9,6 +9,7 @@
                         <li><a href="{{ route('index') }}">Home</a></li>
                         <li><a href="{{ route('posts.index') }}">Actualités</a></li>
                         <li><a href="{{ route('actions') }}">Nos actions</a></li>
+                        <li><a href="{{ route('nous-soutenir') }}">Nous soutenir</a></li>
                     </ul>
                 </div>
                 <div class="column xl-6 lg-6 md-12 s-footer__block s-footer__site-links">

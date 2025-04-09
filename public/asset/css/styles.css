@@ -3638,8 +3638,11 @@ td:last-child {
 
 .s-intro__scroll-down a {
     display: inline-flex;
-    align-items: center;
     color: var(--color-2-darker);
+}
+
+.s-intro__scroll-down .btn {
+    margin-left: var(--vspace-1);
 }
 
 .s-intro__scroll-down span {
@@ -3665,6 +3668,13 @@ td:last-child {
     height: var(--vspace-0_875);
     width: var(--vspace-0_875);
     stroke: var(--color-2-darker);
+}
+
+.video-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px; /* Ajoute un peu d'espace au-dessus de la vidéo */
 }
 
 /* --------------------------------------------------------------------
