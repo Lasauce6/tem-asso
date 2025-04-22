@@ -25,14 +25,11 @@
                     Alors n'hésitez pas a nous soutenir pour que ce projet se réalise !
                 </p>
                 <h2 class="text-center">
-                    <a href="https://trousseaprojets.fr/projet/15247-tous-en-musique-edition-16-odyssee"
+                    <a href="https://trousseaprojets.fr/projet/15247-tous-en-musique-edition-16-odyssee/pre_subscriptions/steps/step_1"
                        target="_blank">
                         Lien vers la trousse à Projets
                     </a>
                 </h2>
-                <div class="video-container">
-                    <iframe width="846" height="400" src="https://www.youtube.com/embed/3kt0GJLHY3o" title="Video parrainage TEM 16" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-                </div>
             </div>
         </div>
     </section>
