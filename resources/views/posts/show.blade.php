@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', 'Actualités - '. $post->title)
+@section('title', 'Actualités - '. $post->title . ' - TEM')
 
 @section('content')
     <section id="content" class="s-content">

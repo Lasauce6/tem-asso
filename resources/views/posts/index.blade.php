@@ -1,6 +1,6 @@
 @extends('main')
 
-@section('title', 'Actualités')
+@section('title', 'Actualités - TEM')
 
 @section('content')
     <section id="content" class="s-content">
@@ -25,7 +25,7 @@
                     <div class="grid-full grid-list-items">
 
                         @foreach($posts as $post)
-                            <x-post-item :post="$post" />
+                            <x-post-item :post="$post"/>
                         @endforeach
 
                     </div> <!-- grid-list-items -->
