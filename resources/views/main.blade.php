@@ -15,7 +15,7 @@
 
     <!-- CSS
     ================================================== -->
-{{--    <script src="https://cdn.tailwindcss.com"></script>--}}
+    {{--    <script src="https://cdn.tailwindcss.com"></script>--}}
     @vite('resources/css/app.css')
     <link rel="stylesheet" href={{ asset('asset/css/vendor.css') }}>
     <link rel="stylesheet" href={{ asset('asset/css/styles.css') }}>
@@ -61,7 +61,11 @@
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-5KZPFBFY5P"></script>
 <script>
     window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
+
+    function gtag() {
+        dataLayer.push(arguments);
+    }
+
     gtag('js', new Date());
 
     gtag('config', 'G-5KZPFBFY5P');
