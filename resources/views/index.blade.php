@@ -123,10 +123,9 @@
                     <div class="flex-1 mx-5">
                         <iframe
                             class="w-full aspect-video rounded-lg"
-                            src="https://www.youtube-nocookie.com/embed/lj2jc_aVSbE?modestbranding=1&rel=0&showinfo=0"
-                            referrerpolicy="strict-origin-when-cross-origin"
+                            src="https://www.youtube.com/embed/lj2jc_aVSbE?modestbranding=1&rel=0&showinfo=0"
                             title="TEM15 - De Brunoy à Angers"
-                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
                     </div>
@@ -134,10 +133,9 @@
                     <div class="flex-1 mx-5">
                         <iframe
                             class="w-full aspect-video rounded-lg"
-                            src="https://www.youtube-nocookie.com/embed/oAoiPOl_Hkc?modestbranding=1&rel=0&showinfo=0"
-                            referrerpolicy="strict-origin-when-cross-origin"
+                            src="https://www.youtube.com/embed/oAoiPOl_Hkc?modestbranding=1&rel=0&showinfo=0"
                             title="Interviews TEM15 - membres de l'association"
-                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
                             allowfullscreen>
                         </iframe>
                     </div>
