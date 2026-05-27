@@ -53,8 +53,6 @@
 
             <div class="row s-about__content width-sixteen-col">
                 <div class="column grid-block grid-section-split">
-
-
                     <div class="section-header grid-section-split__header">
                         <div class="text-pretitle">A propos</div>
                         <h2 class="text-display-title">
@@ -121,12 +119,25 @@
 
             </div>
             <div class="row width-sixteen-col">
-                <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 mt-4">
+                <div class="flex flex-col md:flex-row space-y-4 md:space-y-0 md:space-x-4 mt-4 w-full items-center justify-center">
                     <div class="flex-1 mx-5">
-                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/interviews_TEM15.mov') }}" controls></video>
+                        <iframe
+                            class="w-full aspect-video rounded-lg"
+                            src="https://www.youtube.com/embed/lj2jc_aVSbE?modestbranding=1&rel=0&showinfo=0"
+                            title="TEM15 - De Brunoy à Angers"
+                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen>
+                        </iframe>
                     </div>
+
                     <div class="flex-1 mx-5">
-                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/TEM15_Brunoy_Angers.mp4') }}" controls></video>
+                        <iframe
+                            class="w-full aspect-video rounded-lg"
+                            src="https://www.youtube.com/embed/oAoiPOl_Hkc?modestbranding=1&rel=0&showinfo=0"
+                            title="Interviews TEM15 - membres de l'association"
+                            allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+                            allowfullscreen>
+                        </iframe>
                     </div>
                 </div>
             </div>

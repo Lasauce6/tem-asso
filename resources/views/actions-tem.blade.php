@@ -139,7 +139,7 @@
                     <li>Un service Communication</li>
                     <li>Une résidence d’artiste par an</li>
                     <li>5 concerts par an</li>
-                    <li>1 clip vidé</li>
+                    <li>1 clip vidéo</li>
                     <li>Pour une jauge annuelle de 2000 personnes…</li>
                 </ul>
             </div>
