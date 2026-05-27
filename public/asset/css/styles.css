@@ -1737,11 +1737,6 @@ img.u-pull-left {
 /* --------------------------------------------------------------------
  * ## spacing
  * -------------------------------------------------------------------- */
-fieldset,
-button,
-.btn {
-    margin-bottom: var(--vspace-0_5);
-}
 
 input,
 textarea,
@@ -2164,7 +2159,6 @@ input[type=button] {
     height: var(--btn-height);
     line-height: calc(var(--btn-height) - 4px);
     padding: 0 2.6rem;
-    margin: 0 0.4rem var(--vspace-0_5) 0;
     color: var(--color-btn-text);
     text-decoration: none;
     text-align: center;
@@ -3639,10 +3633,6 @@ td:last-child {
 .s-intro__scroll-down a {
     display: inline-flex;
     color: var(--color-2-darker);
-}
-
-.s-intro__scroll-down .btn {
-    margin-left: var(--vspace-1);
 }
 
 .s-intro__scroll-down span {
