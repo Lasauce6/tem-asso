@@ -26,7 +26,7 @@
                     pour créer du lien entre les jeunes sur le temps des vacances scolaires.
                 </p>
                 <p>
-                    Le nom est posé : tous en musique. <br>
+                    Le nom est posé : <strong>T</strong>ous <strong>E</strong>n <strong>M</strong>usique. <br>
                     Déjà la recherche de qualité musicale est là, tout comme l’accompagnement
                     par des professionnels de la musique, du son et de l’enregistrement. Ce projet se développe de
                     vacances en
@@ -55,42 +55,42 @@
                     jeunes par la réalisation de jam sessions.
                 </p>
                 <p>
-                    TEM 8 : L’IME de la Cerisaie devient partenaire du projet : la structure du projet est déjà là : le
+                    <strong>TEM 8 :</strong> L’IME de la Cerisaie devient partenaire du projet : la structure du projet est déjà là : le
                     clip, le concert, les Masterclass, l’adaptation musicale pour chacun. Reste plus qu’à se retrouver :
                     la proximité des établissements permet un cours en commun tous les 15 jours.
                     Une résidence d’artistes se crée avec les anciens du projet afin de proposer une œuvre, support du
                     clip, adaptée aux besoins des jeunes de l’année à venir ...
                 </p>
                 <p>
-                    TEM 11 / confiné : Mars 2020, l’année s’arrêtera pour tout le monde, à un mois du concert....mais le
+                    <strong>TEM 11 / confiné :</strong> Mars 2020, l’année s’arrêtera pour tout le monde, à un mois du concert....mais le
                     projet d’enregistrement est déjà fait, alors on se filme en confinés.
                 </p>
                 <p>
-                    TEM 12 : distanciel
+                    <strong>TEM 12 :</strong> distanciel
                     Les innovations techniques permettent de dépasser les défis sanitaires. De par leur caractère
                     médico-social, les établissements n’étaient pas soumis aux mêmes règles sanitaires. Grâce aux
                     équipes techniques, un concert en visio a pu être enregistré pour ne pas réaliser d’année blanche.
                 </p>
                 <p>
-                    TEM 13 21/22 : Résilience, dernière année
+                    <strong>TEM 13 21/22 :</strong> Résilience, dernière année
                     La pression sanitaire se relâche et les groupes peuvent se retrouver...
                 </p>
                 <p>
-                    TEM 14 r-évolution
+                    <strong>TEM 14 :</strong> r-évolution
                     Le projet étant inclus dans le temps scolaire, il est attaché aux cours donc aux enseignants.
                     Face au départ d’une des enseignantes, les anciens membres du projet décident de créer un une
                     association afin de faire perdurer le projet : l’association Tous ensemble en musique est née.
                     Le projet est en évolution ou plutôt en révolution.
                 </p>
                 <p>
-                    EM 15 Oz
+                    <strong>TEM 15 :</strong> Oz
                     TEM s’exporte : il s’ouvre à d’autres établissements. Il est indépendant et libre. L’association
                     centralise toutes les expertises du projet, l’échange entre établissements permettant le transfert
                     de compétences. Elle ouvre sa pratique à d’autres établissements désireux de partager les valeurs de
                     ce projet unique.
                 </p>
                 <p>
-                    Tem 16 Odyssé
+                    <strong>TEM 16 :</strong> Odyssé
                     TEM est maintenant en vitesse de croisière : son modèle pédagogique inclusif s’ouvre à d’autres
                     établissements sur toute la France.
                 </p>
@@ -101,7 +101,7 @@
                 </p>
                 <ul class="list-disc list-inside">
                     <li>
-                        L’accessibilité : elle concerne chacun qu’il soit porteur d’un handicap ou pas (sensoriels,
+                        <strong>L’accessibilité :</strong> elle concerne chacun qu’il soit porteur d’un handicap ou pas (sensoriels,
                         psychiques, cognitifs ou intellectuels).
                         TEM rend les arts accessibles à chacun dans leur découverte, leur connaissance et leurs
                         pratiques.
@@ -109,7 +109,7 @@
                         universellement.
                     </li>
                     <li>
-                        L’inclusion : La loi de 2005 reconnaît à tout enfant porteur de handicap le droit d’être inscrit
+                        <strong>L’inclusion :</strong> La loi de 2005 reconnaît à tout enfant porteur de handicap le droit d’être inscrit
                         en milieu ordinaire, dans l’école dont relève son domicile. Ce principe est renforcé par la loi
                         n° 2013-595 du 8 juillet 2013 d'orientation et de programmation pour la refondation de l'école
                         de la République qui introduit dans le code de l'éducation la notion d'école inclusive. TEM crée
@@ -117,7 +117,7 @@
                         artistiques partagés au service de l’inclusion.
                     </li>
                     <li>
-                        L’insertion professionnelle : ouvrir le champ des possibles...grâce aux rencontres entre le
+                        <strong>L’insertion professionnelle :</strong> ouvrir le champ des possibles...grâce aux rencontres entre le
                         milieu scolaire et professionnels, les potentiels se développent tout comme les compétences. Des
                         parcours d’accompagnement et de formations se créent au service des projets des jeunes.
                     </li>
