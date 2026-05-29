@@ -3,7 +3,7 @@
     <div class="row s-header__inner width-sixteen-col">
 
         <div class="s-header__block">
-            <div class="s-header__logo">
+            <div class="s-header__logo mt-4">
                 <a class="logo" href={{ route('index') }}>
                     <img src={{ asset('asset/images/logo.svg') }} alt="Homepage">
                 </a>
