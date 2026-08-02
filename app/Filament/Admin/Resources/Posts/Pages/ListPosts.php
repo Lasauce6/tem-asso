@@ -1,8 +1,9 @@
 <?php
 
-namespace App\Filament\Admin\Resources\PostResource\Pages;
+namespace App\Filament\Admin\Resources\Posts\Pages;
 
-use App\Filament\Admin\Resources\PostResource;
+use Filament\Actions\CreateAction;
+use App\Filament\Admin\Resources\Posts\PostResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ListRecords;
 
@@ -13,7 +14,7 @@ class ListPosts extends ListRecords
     protected function getHeaderActions(): array
     {
         return [
-            Actions\CreateAction::make(),
+            CreateAction::make(),
         ];
     }
 }
