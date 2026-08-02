@@ -1,8 +1,9 @@
 <?php
 
-namespace App\Filament\Admin\Resources\CategoryResource\Pages;
+namespace App\Filament\Admin\Resources\Categories\Pages;
 
-use App\Filament\Admin\Resources\CategoryResource;
+use Filament\Actions\CreateAction;
+use App\Filament\Admin\Resources\Categories\CategoryResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ManageRecords;
 
@@ -13,7 +14,7 @@ class ManageCategories extends ManageRecords
     protected function getHeaderActions(): array
     {
         return [
-            Actions\CreateAction::make(),
+            CreateAction::make(),
         ];
     }
 }

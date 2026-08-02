@@ -1,8 +1,9 @@
 <?php
 
-namespace App\Filament\Admin\Resources\PostResource\Pages;
+namespace App\Filament\Admin\Resources\Posts\Pages;
 
-use App\Filament\Admin\Resources\PostResource;
+use Filament\Actions\EditAction;
+use App\Filament\Admin\Resources\Posts\PostResource;
 use Filament\Actions;
 use Filament\Resources\Pages\ViewRecord;
 
@@ -13,7 +14,7 @@ class ViewPost extends ViewRecord
     protected function getHeaderActions(): array
     {
         return [
-            Actions\EditAction::make(),
+            EditAction::make(),
         ];
     }
 }
