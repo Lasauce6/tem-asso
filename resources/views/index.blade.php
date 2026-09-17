@@ -24,7 +24,7 @@
 
                     <div class="s-intro__content-media">
                         <div class="s-intro__content-media-inner">
-                            <img src={{ asset('asset/images/intro-bg.jpg') }} alt="" alt="">
+                            <img src={{ asset('asset/images/intro-bg2.jpg') }} alt="" alt="">
                             <div class="lines">
                                 <span></span>
                             </div>
