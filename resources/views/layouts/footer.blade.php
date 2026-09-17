@@ -79,6 +79,7 @@
             <p class="ss-copyright">
                 <span>© Copyright TEM 2025</span>
                 <span>Création logo : Alexandre Bouché</span>
+                <span>Photographie : Manon Hugonnard et Benjamin Thouet</span>
                 <span>Site réalisé par <a href="https://raphaelbaticle.fr" target="_blank">Raphaël Baticle</a></span>
                 <span>Design by <a href="https://www.styleshout.com/" target="_blank">StyleShout</a> Distribution By <a
                         href="https://themewagon.com" target="_blank">ThemeWagon</a></span>
