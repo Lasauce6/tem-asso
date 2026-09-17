@@ -107,7 +107,7 @@
                         <br>
                         <p class="attention-getter">
                             "Tous En Musique" alias TEM. Trois lettres pour résumer un projet développé depuis plus de 15 ans.
-                            Ayant pour objectif de rapprocher les jeunes, TEM acceuille plusieurs établissements scolaires, des artistes
+                            Ayant pour objectif de rapprocher les jeunes, TEM accueille plusieurs établissements scolaires, des artistes
                             indépendants, des étudiants et des élèves d'IME, de SEGPA et d'ULIS.
                             De Brunoy jusqu'à Angers, TEM est un projet d'inclusion scolaire à travers la musique.
                         </p>
@@ -126,11 +126,8 @@
             </div>
             <div class="row width-sixteen-col">
                 <div class="flex flex-col md:flex-row gap-4 mt-4 w-full px-4">
-                    <div class="flex-1 mx-5">
+                    <div class="flex-1 mx-20">
                         <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/interviews_TEM15.mp4') }}" controls></video>
-                    </div>
-                    <div class="flex-1 mx-5">
-                        <video class="w-full h-full rounded-lg" src="{{ asset('asset/videos/TEM15_Brunoy_Angers.mp4') }}" controls></video>
                     </div>
                 </div>
             </div>
