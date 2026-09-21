@@ -9422,7 +9422,7 @@
         },
         {
             "name": "filament/upgrade",
-            "version": "v5.8.2",
+            "version": "v5.8.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/filamentphp/upgrade.git",
